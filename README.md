@@ -7,3 +7,7 @@ On the Cucumber project we have four main parts
 + **CucumberRunner** is a class used to provide some configurations for test execution.
 
 ## Feature File ##
+The feature file is a testcase file for each function on automation test. We use the Gherkin language to describe the testcase which have to implement. Some of keywords are:
+- Feature: Decribe about the feature on automated project
+- Scenario: Decribe about the specific scenario - testcase which we have to answer about feature status
+- Given, When, Then: Is a set of keywords used to decribe about step on each testcase
